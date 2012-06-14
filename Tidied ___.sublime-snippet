@@ -1,0 +1,8 @@
+<snippet>
+  <description>[♻] Tidied...</description>
+  <content>
+    <![CDATA[[♻] Tidied $0.]]>
+  </content>
+  <tabTrigger>tidied</tabTrigger>
+  <scope>text.plain,text.git-commit,text.hg-editor-*.txt</scope>
+</snippet>

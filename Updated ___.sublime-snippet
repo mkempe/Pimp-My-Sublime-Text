@@ -1,0 +1,8 @@
+<snippet>
+  <description>[➠] Updated...</description>
+  <content>
+    <![CDATA[[➠] Updated $0.]]>
+  </content>
+  <tabtrigger>updated</tabtrigger>
+  <scope>text.plain,text.git-commit,text.hg-editor-*.txt</scope>
+</snippet>

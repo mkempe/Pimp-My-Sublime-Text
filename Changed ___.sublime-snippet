@@ -1,0 +1,8 @@
+<snippet>
+  <description>[➠] Changed...</description>
+  <content>
+    <![CDATA[[➠] Changed $0.]]>
+  </content>
+  <tabTrigger>changed</tabTrigger>
+  <scope>text.plain,text.git-commit,text.hg-editor-*.txt</scope>
+</snippet>

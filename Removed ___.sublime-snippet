@@ -1,0 +1,8 @@
+<snippet>
+  <description>[✖] Removed...</description>
+  <content>
+    <![CDATA[[✖] Removed $0.]]>
+  </content>
+  <tabTrigger>removed</tabTrigger>
+  <scope>text.plain,text.git-commit,text.hg-editor-*.txt</scope>
+</snippet>

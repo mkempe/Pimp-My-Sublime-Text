@@ -1,0 +1,8 @@
+<snippet>
+  <description>[➠] Adjusted...</description>
+  <content>
+    <![CDATA[[➠] Adjusted $0.]]>
+  </content>
+  <tabTrigger>adjusted</tabTrigger>
+  <scope>text.plain,text.git-commit,text.hg-editor-*.txt</scope>
+</snippet>

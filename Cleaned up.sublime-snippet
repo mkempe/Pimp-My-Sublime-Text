@@ -1,0 +1,8 @@
+<snippet>
+  <description>[♻] Cleaned up...</description>
+  <content>
+    <![CDATA[[♻] Cleaned up $0.]]>
+  </content>
+  <tabTrigger>cleaned</tabTrigger>
+  <scope>text.plain,text.git-commit,text.hg-editor-*.txt</scope>
+</snippet>
