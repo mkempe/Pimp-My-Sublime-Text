@@ -3,6 +3,6 @@
   <content>
     <![CDATA[[➠] Updated $0.]]>
   </content>
-  <tabtrigger>updated</tabtrigger>
+  <tabTrigger>updated</tabTrigger>
   <scope>text.plain,text.git-commit,text.hg-editor-*.txt</scope>
 </snippet>
