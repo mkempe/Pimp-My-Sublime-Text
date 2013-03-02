@@ -1,2 +1,5 @@
+# Ignore cache files
 *.cache
+
+# Ignore byte code files
 *.pyc
