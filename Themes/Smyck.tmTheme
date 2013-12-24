@@ -2,13 +2,13 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
-    <key>author</key>
-    <string>Stanley Rost</string>
-    <key>comment</key>
-    <string>hukl, 2011</string>
     <key>name</key>
     <string>Smyck</string>
+    <key>author</key>
+    <string>Stanley Rost</string>
     <key>settings</key>
+    <key>comment</key>
+    <string>hukl, 2011</string>
     <array>
       <dict>
         <key>settings</key>
