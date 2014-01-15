@@ -1,5 +1,9 @@
 {
-  "description": "My personal enhancements for Sublime Text.",
-  "url": "https://github.com/mkempe/Pimp-My-Sublime-Text",
-  "version": "2014.01.15"
- }
+  "name": "Pimp My Sublime Text",
+  "details": "https://github.com/mkempe/Pimp-My-Sublime-Text",
+  "labels": ["pimp"],
+  "releases": [{
+    "sublime_text": "*",
+    "details": "https://github.com/mkempe/Pimp-My-Sublime-Text/tree/master"
+  }]
+}
