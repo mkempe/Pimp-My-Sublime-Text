@@ -1,0 +1,8 @@
+<snippet>
+  <description>[➦] Merged changes.</description>
+  <content>
+    <![CDATA[[➦] Merged changes.]]>
+  </content>
+  <tabTrigger>changes</tabTrigger>
+  <scope>text.plain,text.git-commit,text.hg-editor-*.txt</scope>
+</snippet>
