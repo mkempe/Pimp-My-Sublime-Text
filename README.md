@@ -6,8 +6,4 @@ Personal enhancements for [Sublime Text](http://www.sublimetext.com "Sublime Tex
 License
 -------
 
-MIT License
-
-“Pimp My Sublime Text” is released under the MIT license.
-
-See “COPYING”.
+Pimp My Sublime Text is released under the MIT License.
