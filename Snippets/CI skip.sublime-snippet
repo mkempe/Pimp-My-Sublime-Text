@@ -1,0 +1,8 @@
+<snippet>
+  <description>[ci skip]</description>
+  <content>
+    <![CDATA[[ci skip]]]>
+  </content>
+  <tabTrigger>ciskip</tabTrigger>
+  <scope>text.plain,text.git-commit,text.hg-editor-*.txt</scope>
+</snippet>
