@@ -2,8 +2,10 @@
   "name": "Pimp My Sublime Text",
   "details": "https://github.com/mkempe/Pimp-My-Sublime-Text",
   "labels": ["pimp"],
-  "releases": [{
-    "sublime_text": "*",
-    "details": "https://github.com/mkempe/Pimp-My-Sublime-Text/tree/master"
-  }]
+  "releases": [
+    {
+      "sublime_text": "*",
+      "details": "https://github.com/mkempe/Pimp-My-Sublime-Text/tree/master"
+    }
+  ]
 }
