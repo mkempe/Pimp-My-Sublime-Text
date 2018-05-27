@@ -4,5 +4,5 @@
     <![CDATA[[❶] First commit.]]>
   </content>
   <tabTrigger>first</tabTrigger>
-  <scope>text.plain,text.git-commit,text.hg-editor-*.txt</scope>
+  <scope>text.git.commit,text.git.rebase,text.hg.commit,text.plain</scope>
 </snippet>
