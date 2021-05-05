@@ -3,3 +3,5 @@
 
 # Ignore byte code files
 *.pyc
+
+/Themes/Dracula Pro.tmTheme
